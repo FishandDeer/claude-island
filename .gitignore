@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+dist/
+*.xcuserstate
+*.xcworkspace/
+xcuserdata/
+
+# Local runtime state
+.claude-island/
